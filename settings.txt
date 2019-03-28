@@ -1,0 +1,20 @@
+F2:9E:45:B9:05:9D
+				Mac Address
+10.10.90.145
+				IP Address
+255.255.255.0
+				Subnet Mask
+10.101.90.101
+				Gateway Address
+10.101.90.101
+				Server Address(Console) 
+8001
+				OSC UDP Port
+/eos/wheel/pan
+				Encoder 1
+/eos/wheel/tilt
+				Encoder 2
+/eos/key/go_0
+				Encoder 1 button
+/eos/key/stop
+				Encoder 2 button
