@@ -1,5 +1,7 @@
 # LightHack
 modified and expanded LightHack sketches for use with ETC Eos family consoles.
+Networked accessories that use OSC to communicate with the Eos consoles.  
+Latest is example sketch for TCP based OSC communication from arduino.  
 
 Feel free to use these sketches in your projects.  I would love to hear what people are doing with them.  This is a collection of sketches I've used on different projects and not all the same project.
 Some of the sketches are setup to have their network setup on an SD card. There is an example settings.txt file for reference.
