@@ -15,6 +15,12 @@
    This example code is in the public domain.
 */
 
+
+// Need this file and also the name.c file in the folder.  You can change the name.c file to reflect the usb midi name that appears
+
+// need to upload this to a teensy in serial + MIDI mode so the teensy appears as a usb midi device when plugged into a console/computer
+
+
 #include <USBHost_t36.h>
 
 USBHost myusb;
